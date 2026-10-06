@@ -1,0 +1,1 @@
+Jupyter notebooks from the M1 Numerical Physics classes. My resolution and the techer's solutions are available. 
